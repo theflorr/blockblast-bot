@@ -17,6 +17,7 @@ Python script plays the mobile game Block Blast for you. It mirrors your Android
 - Python 3
 - An Android phone with Wireless debugging enabled, connected via ADB
 - Packages: `opencv-python`, `numpy`, `scrcpy-client`
+- Windows (This is not supported for linux, nor mac fuck you guys)
 
 ## Running it
 
