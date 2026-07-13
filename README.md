@@ -2,7 +2,7 @@
 
 Python script plays the mobile game Block Blast for you. It mirrors your Android phone's screen on your computer, watches the board using basic computer vision (no machine learning model, just color matching and contour detection), figures out the best move, and taps your phone for you to place the piece.
 
-![demo](preview.gif)
+![demo](preview.mp4)
 
 ## What it does
 
